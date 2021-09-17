@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253423435603",
+    "project_id": "music-app-project-543fb",
+    "storage_bucket": "music-app-project-543fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253423435603:android:c5c9772584b9cf480caba6",
+        "android_client_info": {
+          "package_name": "satyamawasthi.music_recommender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253423435603-101eqrp4ab334vnrlud3dj6gqg35mpnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "satyamawasthi.music_recommender",
+            "certificate_hash": "80204d2250321382224add8a52ce7d3ba39d96d3"
+          }
+        },
+        {
+          "client_id": "253423435603-uhuj4l2rg9qlnt0fre6k7em696hhl8em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMzzeJKha2lyZSLNRcsSP5zr5gA2VJRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253423435603-uhuj4l2rg9qlnt0fre6k7em696hhl8em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
